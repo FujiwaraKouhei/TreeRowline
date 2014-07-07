@@ -1,0 +1,45 @@
+<modify-entry
+   name="index.html"
+   present-props=""
+   has-prop-mods="false"
+   has-props="true"/>
+<mv
+   dest=".svn/prop-base/index.html.svn-base"
+   name=".svn/prop-base/svn-OS0HYX"/>
+<readonly
+   name=".svn/prop-base/index.html.svn-base"/>
+<modify-entry
+   committed-rev="3"
+   committed-date="2014-02-24T05:57:54.712113Z"
+   name="index.html"
+   last-author="aoki"
+   uuid="c8fd29dc-a291-47e3-8056-30b1e1d230cc"/>
+<modify-wcprop
+   name="index.html"
+   propname="svn:wc:ra_dav:version-url"
+   propval="/repositories/SE/!svn/ver/3/Projects/Project_MVC_Example/index.html"/>
+<modify-entry
+   text-time="1970-01-01T00:00:00.000000Z"
+   name="index.html"
+   kind="file"
+   deleted="false"
+   working-size="-1"
+   absent="false"
+   revision="13"/>
+<cp-and-translate
+   dest="index.html"
+   name=".svn/tmp/text-base/index.html.svn-base"/>
+<mv
+   dest=".svn/text-base/index.html.svn-base"
+   name=".svn/tmp/text-base/index.html.svn-base"/>
+<readonly
+   name=".svn/text-base/index.html.svn-base"/>
+<modify-entry
+   name="index.html"
+   checksum="c842a554676fb2a3a9c57a890e17afcf"/>
+<modify-entry
+   name="index.html"
+   text-time="working"/>
+<modify-entry
+   name="index.html"
+   working-size="working"/>
